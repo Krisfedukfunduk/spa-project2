@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/spa-project2/static/css/main.6adb024b.css",
+    "main.js": "/spa-project2/static/js/main.63d9e9fa.js",
+    "static/media/rats.png": "/spa-project2/static/media/rats.dbab5900ed76e0550ca0.png",
+    "static/media/фон.png": "/spa-project2/static/media/фон.55e361a75f388bcb430d.png",
+    "static/media/Comic_CAT.otf": "/spa-project2/static/media/Comic_CAT.a380a424826d21d30fb7.otf",
+    "static/media/ДУРИК.ttf": "/spa-project2/static/media/ДУРИК.fb828359c51e039d25e3.ttf",
+    "static/media/Daray.otf": "/spa-project2/static/media/Daray.a853aa7b2e92c008a5eb.otf",
+    "index.html": "/spa-project2/index.html",
+    "main.6adb024b.css.map": "/spa-project2/static/css/main.6adb024b.css.map",
+    "main.63d9e9fa.js.map": "/spa-project2/static/js/main.63d9e9fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6adb024b.css",
+    "static/js/main.63d9e9fa.js"
+  ]
+}
